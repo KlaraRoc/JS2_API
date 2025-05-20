@@ -1,0 +1,26 @@
+
+
+  .course {
+    margin-bottom: 1rem;
+    padding: 1rem 2rem;  
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #bbb;
+    max-width: 185rem;
+    margin: 2rem auto;
+    display: block;
+  }
+  
+  .course__detail {
+    display:block;
+  }
+  
+  .course__title {
+    font-weight: bold;
+    color: skyblue;
+  }
+
+    .course__name {
+    font-weight: bold;
+    font-size: x-large;
+  }  

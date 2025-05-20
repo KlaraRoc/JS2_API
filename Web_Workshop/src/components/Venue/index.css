@@ -1,0 +1,22 @@
+
+
+  .place {
+    margin-bottom: 1rem;
+    padding: 1rem 2rem;  
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #bbb;
+    max-width: 185rem;
+    margin: 2rem auto;
+    display: block;
+  }
+  
+  .place__detail {
+    display:block;
+  }
+  
+  .place__title {
+    font-weight: bold;
+    color: skyblue;
+  }
+  
